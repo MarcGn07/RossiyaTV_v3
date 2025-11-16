@@ -10,7 +10,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/330px-TV_Tsentr_2013_Logo.svg.png",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1200px-Zvezda_logo.svg.png",ТЕЛЕКАНАЛ ЗВЕЗДА
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=b20iADVDKIzXHGstWmiWOA&e=1763194446&scheme=https
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=q1EzUucozITCtu-T-MC6Vg&e=1763397197&scheme=https
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://i.ibb.co/bgwFBwb9/Match-2019.png",Матч!
