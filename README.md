@@ -14,4 +14,4 @@ https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=q1
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://i.ibb.co/bgwFBwb9/Match-2019.png",Матч!
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=eaceWKSK6rtsfFptWFcEqw&e=1763154284&scheme=https
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=pSSyz14W0mb9I45SicnCUQ&e=1763397453&scheme=https
