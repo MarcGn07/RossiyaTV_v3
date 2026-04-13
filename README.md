@@ -4,7 +4,7 @@ https://pkvc-hls7.cdnvideo.ru/pkvc/pk/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.ibb.co/Pz61KPQt/8-2.webp",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.ibb.co/G315vFxy/3-2005-2007.webp",НТВ
-https://cdn.ntv.ru/ntv0_foreign/index.m3u8?filter.tracks=v2v1a1l1t1
+https://cdn-dvr.ntv.ru/ntv0_hd/rewind-60.ts.m3u8?
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png",Планета-РТР
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA4OjM1OjU5IEFNJmhhc2hfdmFsdWU9a1BBWmNJV3Z3bHNPcjdXOEFXdnpBUT09JnZhbGlkbWludXRlcz0xNDQw
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/330px-TV_Tsentr_2013_Logo.svg.png",ТВЦ
