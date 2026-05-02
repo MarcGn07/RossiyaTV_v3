@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://i.ibb.co/HDXCnHrJ/4.png",Первый канал
-https://vsd134.okcdn.ru/hls/528984312566.m3u8/sig/w0JV8MjwxTs/expires/1777830914950/srcIp/94.134.107.181/urls/185.226.52.95/clientType/0/srcAg/CHROME_MAC/mid/1115050286838/528984312566_high/index.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=4QfAEn-V27nHFH35vgwSwg&e=2077744567&scheme=https
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://i.ibb.co/Pz61KPQt/8-2.webp",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.ibb.co/G315vFxy/3-2005-2007.webp",НТВ
