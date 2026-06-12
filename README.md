@@ -9,7 +9,7 @@ https://cdn-dvr.ntv.ru/ntv0_hd/rewind-60.ts.m3u8?
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNSA4OjM1OjU5IEFNJmhhc2hfdmFsdWU9a1BBWmNJV3Z3bHNPcjdXOEFXdnpBUT09JnZhbGlkbWludXRlcz0xNDQw
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/330px-TV_Tsentr_2013_Logo.svg.png",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1200px-Zvezda_logo.svg.png",ТЕЛЕКАНАЛ ЗВЕЗДА
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://i.ibb.co/hxXYKGfD/Zvezda-logo-svg.png",ТЕЛЕКАНАЛ ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i.ibb.co/qTbxp4P/Rossiya-24-Logo-svg.png",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
